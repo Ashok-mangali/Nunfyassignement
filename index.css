@@ -1,0 +1,35 @@
+
+.first-card{
+    text-align: center;
+}
+.logo{
+    height:60px;
+}
+.second-card{
+    text-align: center;
+}
+.heading{
+    color:#1a237e;
+    font-size: 70px;
+}
+.desciription{
+    color: #666666;
+    font-size: 35px;
+}
+.lists{
+    display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.checks{
+    color: #666666;
+    
+}
+.card-3{
+    text-align: center;
+    background-color: #b3d3e5;
+    height: 25vh;
+}
+.heading2{
+    font-size: 30px;
+    color: #1a237e;
+}
